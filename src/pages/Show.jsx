@@ -9,7 +9,7 @@ export default function Show() {
                     Find your next <span className="text-[#d3fb55]">favorite show.</span>
                 </h1>
                 <p className="mt-2 text-sm text-[#a4a1a2]">
-                    Search the TVMaze collection and open any title to learn more.
+                    Search your desired movie with Moviethy.
                 </p>
             </div>
             <ShowExplorer title="Browse the collection" description="Search the TVMaze catalog by show title." />
